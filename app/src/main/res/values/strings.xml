@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="title_movie_list">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="user_rating_movie">Rating: %1$s/10</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="default_movie_description">This is going to be the description of the movie. It gives a brief overview of the movie as well as about the plot synopsis.The movie deals with this and this and that issue as well. Maybe some of the cast was nominanted for an oscar as well.
+            You have to see to believe it.</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort_by">Sort by</string>
+    <string name="heading_reviews">Reviews</string>
+    <string name="heading_trailers">Trailers</string>
+    <string name="heading_description">Description</string>
+</resources>

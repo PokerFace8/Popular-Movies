@@ -1,0 +1,13 @@
+
+<resources>
+    <integer name="number_of_columns">2</integer>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="grid_padding">16dp</dimen>
+    <dimen name="width_trailer">150dp</dimen>
+    <dimen name="height_trailer">100dp</dimen>
+    <dimen name="vertical_padding_detail">8dp</dimen>
+    <dimen name="horizontal_padding_detail">16dp</dimen>
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="horizontal_padding_button">16dp</dimen>
+</resources>
+

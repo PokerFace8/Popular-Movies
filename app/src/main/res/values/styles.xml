@@ -1,0 +1,40 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="android:paddingLeft">@dimen/horizontal_padding_button</item>
+        <item name="android:paddingRight">@dimen/horizontal_padding_button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="DetailViewStyle">
+        <item name="android:textColor">#F5F5F5</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="DetailViewText">
+        <item name="android:textColor">#F5F5F5</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+    </style>
+
+    <style name="Button.ColorPrimary" parent="Button">
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+    </style>
+</resources>
